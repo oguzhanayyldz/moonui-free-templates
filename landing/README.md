@@ -1,6 +1,17 @@
-# blank
+# MoonUI Landing Template
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [MoonUI CLI](https://moonui.dev).
+
+## About This Template
+
+A modern landing page template built with MoonUI components. Features include:
+
+- Hero section with call-to-action
+- Features grid
+- Testimonials section
+- FAQ section with accordion
+- Responsive design
+- Dark mode support
 
 ## Getting Started
 

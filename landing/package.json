@@ -1,5 +1,5 @@
 {
-  "name": "moonui-landing-template",
+  "name": "moonui-landing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@moontra/moonui": "latest",
+    "@moontra/moonui-pro": "latest",
     "next": "^15.3.5",
     "next-themes": "^0.2.1",
     "react": "^18.3.1",

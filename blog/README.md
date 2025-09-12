@@ -1,6 +1,39 @@
-# blank
+# MoonUI Blog Template
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [MoonUI CLI](https://moonui.dev).
+
+## About This Template
+
+A modern blog template built with MoonUI components. Features include:
+
+- Blog homepage with post listing
+- Individual blog post pages
+- Markdown support with gray-matter and remark
+- Author information and bio
+- Tag system
+- Reading time estimation
+- Responsive design
+- Dark mode support
+
+## Adding Blog Posts
+
+Create new markdown files in the `content/posts/` directory with the following frontmatter:
+
+```yaml
+---
+title: "Your Post Title"
+excerpt: "Brief description of your post"
+date: "2025-01-15"
+author:
+  name: "Author Name"
+  bio: "Author bio"
+  image: "Author image URL"
+tags: ["tag1", "tag2"]
+coverImage: "Cover image URL"
+---
+
+Your post content here...
+```
 
 ## Getting Started
 
