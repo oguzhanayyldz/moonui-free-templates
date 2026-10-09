@@ -122,8 +122,8 @@ export default function LandingPage() {
               A modern component library that helps you ship faster. 
               Beautiful, accessible, and fully customizable.
             </p>
-            <div className="flex gap-4 justify-center animate-fade-up animation-delay-400">
-              <a href="https://moonui.dev/docs/getting-started" target="_blank" rel="noopener noreferrer">
+            <div className="flex flex-wrap gap-4 justify-center animate-fade-up animation-delay-400">
+              <a href="https://moonui.dev/docs/installation" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" className="gap-2">
                   Get Started
                   <ArrowRight className="h-4 w-4" />
@@ -258,8 +258,8 @@ export default function LandingPage() {
               <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
                 Join thousands of developers using MoonUI to build beautiful applications faster.
               </p>
-              <div className="flex gap-4 justify-center">
-                <a href="https://moonui.dev/docs/getting-started" target="_blank" rel="noopener noreferrer">
+              <div className="flex flex-wrap gap-4 justify-center">
+                <a href="https://moonui.dev/docs/installation" target="_blank" rel="noopener noreferrer">
                   <Button size="lg" className="gap-2 bg-white text-primary hover:bg-white/90">
                     <Rocket className="h-4 w-4" />
                     Get Started Free

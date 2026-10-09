@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@moontra/moonui": "^2.3.10",
-    "@moontra/moonui-pro": "^3.4.42",
+    "@moontra/moonui": "^6.31.1",
+    "@moontra/moonui-pro": "^4.50.0",
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
